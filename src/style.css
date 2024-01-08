@@ -1,0 +1,30 @@
+label.header {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+label.subtitle {
+    font-weight: bold;
+}
+
+label.default {
+    font-size: 18px;
+}
+
+label.default--bold {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+label.default--large--bold {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+button.sthread {
+    color: limegreen;
+}
+
+button.mthread {
+    color: rebeccapurple;
+}
